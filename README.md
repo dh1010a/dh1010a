@@ -1,4 +1,3 @@
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2BB24C&height=200&section=header&text=dh1010a's%20Github&fontSize=30&fontColor=454440&fontAlignY=40" />
 </div>
 
@@ -37,6 +36,13 @@
 - 🏢 42Seoul La Piscine (22/01/31 ~ 22/02/25)
 - 🏪 42Seoul Cadet (22/03/07 ~ 22/09/20)
 <br>
+
+# 💫 Channel
+- [Velog](https://velog.io/@dh1010a/posts)
+- [TIL Tstory](https://100cblog.tistory.com/)
+- email : dh1010a@naver.com
+
+
 
 ## [Boj](https://www.acmicpc.net/) Stats
 [![Solved.ac
