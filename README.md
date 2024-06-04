@@ -31,11 +31,12 @@
 - 🎓 Hanyang university Erica, Computer Engineering
 - 🏢 42Seoul La Piscine (22/01/31 ~ 22/02/25)
 - 🏪 42Seoul Cadet (22/03/07 ~ 22/09/20)
+- 🏫 KB IT's Your Life 5th (24/05 ~)
 <br>
 
 # 💫 Channel
 - [Velog](https://velog.io/@dh1010a/posts)
-- [TIL Tstory](https://100cblog.tistory.com/)
+- [Tstory](https://100cblog.tistory.com/)
 - email : dh1010a@naver.com
 
 
