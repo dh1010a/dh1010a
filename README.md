@@ -7,8 +7,6 @@
 ## Who Am I ?
 
 - 🌱 I’m currently learning Spring, Baekend
-- 🏫 Hanyang university Erica campus student from South Korea
-- 🔭 I majored in Division of ICT and Computer Science.
 <br>
 
 ## 🛠️ My skills
