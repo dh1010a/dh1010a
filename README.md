@@ -1,12 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2BB24C&height=200&section=header&text=dh1010a's%20Github&fontSize=30&fontColor=454440&fontAlignY=40" />
 </div>
 
-## Hi there 👋 I am DoHyun Paek
+# Hi there 👋 I am DoHyun Paek
 <br>
 
 ## Who Am I ?
 
 - 🌱 I’m currently learning Spring, Baekend
+- 🏫 Hanyang university Erica campus student from South Korea
+- 🔭 I majored in Division of ICT and Computer Science.
 <br>
 
 ## 🛠️ My skills
@@ -34,7 +36,7 @@
 # 💫 Channel
 - [Velog](https://velog.io/@dh1010a/posts)
 - [Tstory](https://100cblog.tistory.com/)
-- email : dh1010a@naver.com
+- 📧 email : dh1010a@naver.com
 
 
 
