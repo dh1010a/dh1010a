@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2BB24C&height=200&section=header&text=dh1010a's%20Github&fontSize=30&fontColor=454440&fontAlignY=40" />
-</div>
 
 # Hi there 👋 I am DoHyun Paek
 <br>
@@ -16,13 +15,22 @@
 	<img src="https://img.shields.io/badge/Java-FC4C02?style=flat&logo=coffeescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 	<br>
+  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazonwebservices&logoColor=white" />
   	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=Mongodb&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
 </div>
 <br>
