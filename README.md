@@ -45,7 +45,7 @@
 # 💫 Channel
 - [Velog](https://velog.io/@dh1010a/posts)
 - [Tstory](https://100cblog.tistory.com/)
-- 📧 email : dh1010a@naver.com
+- 📧 email : 100.dohyun.dev@gmail.com
 
 
 
