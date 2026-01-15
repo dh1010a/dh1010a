@@ -41,7 +41,8 @@
 
 ## 🏢 Career
 - Smilegate Holdings: Internship(2025/05 ~ 2025/11)
-- Smilegate Holdings: Full-Stack Developer (2025/11 ~ )
+- Smilegate Holdings: Full-Stack Developer (2025/11 ~ 2025/12)
+- Kakao (2026/01 ~ )
 <br>
 
 # 💫 Channel
