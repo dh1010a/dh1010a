@@ -46,7 +46,6 @@
 <br>
 
 # 💫 Channel
-- [Velog]()
 - 📧 email : 100.dohyun.dev@gmail.com
 
 
