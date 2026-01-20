@@ -5,7 +5,7 @@
 
 ## Who Am I ?
 
-- 🌱 I’m currently learning Spring, Baekend
+- 🌱 I’m currently learning Spring, Backend
 - 🏫 Hanyang university Erica campus student from South Korea
 - 🔭 I majored in Division of ICT and Computer Science.
 <br>
